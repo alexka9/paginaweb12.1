@@ -1,4 +1,4 @@
-body{
+/* body{
    margin: 0;
 }
 .row{
@@ -61,4 +61,26 @@ body{
 }
 .img-rounded{
    border-radius: 2.9%;
-}   
+}   */
+.column-1002{
+   width: 100%;
+   float: justify;
+}
+.row4{
+   height: 100px;
+   clear:both 
+}
+.column-1002{
+   height: 100%;
+   float: center;
+   font-size: x-small;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   background-color: black;
+}
+.column33{
+   width: 23%;
+   float: right
+}
+
+
+
